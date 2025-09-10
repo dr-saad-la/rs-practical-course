@@ -1,0 +1,6 @@
+name,age,city,salary,department,salary_usd,experience,salary_category
+Ahmed,25,Dubai,5000,IT,1350.0,3,Low
+Fatima,30,Muscat,6500,Finance,1755.0000000000002,8,Medium
+Omar,35,Riyadh,7000,IT,1890.0000000000002,13,High
+Sara,28,Kuwait,5500,HR,1485.0,6,Low
+Ali,32,Doha,6000,Finance,1620.0,10,Medium
