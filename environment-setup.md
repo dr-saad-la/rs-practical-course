@@ -86,6 +86,19 @@ While your environment is activated, install common packages:
 conda install numpy pandas matplotlib jupyter-lab
 ```
 
+### 5. Resgister The Environment 
+
+Follow the next steps to register the kernel from the conda prompt:
+
+1. Install the kernel
+   ```bash
+   conda install ipykernel
+   ```
+2. Register the kernel
+   ```bash
+   ipython kernel install --user --name="env-name"
+   ```
+
 ## Quick Reference Commands
 
 | Command | Purpose |
